@@ -56,4 +56,4 @@
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *If you want to understand something, teach it.*
