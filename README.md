@@ -13,3 +13,7 @@ I'm exploring two fields side by side, **automotive** and **medical** robotics, 
 | Robot-arm-kinematics | Robotics | FK / IK for a 7-DOF arm, ROS2 node + RViz| IK error < 1mm |
 | Drive perception | Automotive | Detects and tracks cars and pedestrians on KITTI | mAP 0.xx · MOTA 0.xx |
 | Surgical tool tracking | Medtech | Segments and tracks instruments in endoscopy video| Dice 0.xx |
+
+## Background
+- **B.Sc. AI Engineering**, Bahçeşehir University, Istanul
+- **ML Intern**, ICT hub Egypt (Feb-Mar 2026)
