@@ -15,7 +15,6 @@ I'm exploring two fields side by side, **automotive** and **medical** robotics, 
 | Surgical tool tracking | Medtech | Segments and tracks instruments in endoscopy video| Dice 0.xx |
 
 ## Tech
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
