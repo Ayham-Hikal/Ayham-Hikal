@@ -1,21 +1,15 @@
-## Hi, I'm Ayham Hikal
-AI engineering graduate building perception and robotic systems.
+# Hi, I'm Ayham Hikal
+**AI engineering graduate building perception and robotic systems.**
 I'm exploring two fields side by side, **automotive** and **medical** robotics, on my way to an MSc in Robotics in Germany.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayham-hikal-231492262/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayham.m.hikal@gmail.com)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=flat&logo=githubpages&logoColor=white)](https://ayham-hikal.github.io) -->
  
 ## What I'm working on
-- Robot arm kinematics in PyBullet + ROS2
-- Comparing automative perception and surgical tool tracking through matched projects
+- Robot arm kinematics in PyBullet + ROS 2
+- Comparing automotive perception and surgical tool tracking through matched projects
 - German (A2) and IELTS alongside
-
-## Projects
-| Project | Field | What it does | Key result |
-| --------| ------| -------------| -----------|
-| Robot-arm-kinematics | Robotics | FK / IK for a 7-DOF arm, ROS2 node + RViz| IK error < 1mm |
-| Drive perception | Automotive | Detects and tracks cars and pedestrians on KITTI | mAP 0.xx · MOTA 0.xx |
-| Surgical tool tracking | Medtech | Segments and tracks instruments in endoscopy video| Dice 0.xx |
 
 ## Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,5 +23,12 @@ I'm exploring two fields side by side, **automotive** and **medical** robotics, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Background
-- **B.Sc. AI Engineering**, Bahçeşehir University, Istanul
-- **ML Intern**, ICT hub Egypt (Feb-Mar 2026)
+- **B.Sc. AI Engineering**, Bahçeşehir University, Istanbul
+- **ML Intern**, ICT Hub Egypt (Feb-Mar 2026)
+
+<!--## Projects
+| Project | Field | What it does | Key result |
+| --------| ------| -------------| -----------|
+| Robot-arm-kinematics | Robotics | FK / IK for a 7-DOF arm, ROS2 node + RViz| IK error < 1mm |
+| Drive perception | Automotive | Detects and tracks cars and pedestrians on KITTI | mAP 0.xx · MOTA 0.xx |
+| Surgical tool tracking | Medtech | Segments and tracks instruments in endoscopy video| Dice 0.xx |-->
