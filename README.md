@@ -1,5 +1,5 @@
 # Hi, I'm Ayham Hikal
-**AI engineering graduate building perception and robotic systems.**
+**AI engineering graduate building perception and robotic systems.**<br>
 I'm exploring two fields side by side, **automotive** and **medical** robotics, on my way to an MSc in Robotics in Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayham-hikal-231492262/)
@@ -16,11 +16,11 @@ I'm exploring two fields side by side, **automotive** and **medical** robotics, 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)
-![PyBullet](https://img.shields.io/badge/PyBullet-6E7781?style=flat)
-![MONAI](https://img.shields.io/badge/MONAI-00A3A3?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<!--![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)
+![PyBullet](https://img.shields.io/badge/PyBullet-6E7781?style=flat)
+![MONAI](https://img.shields.io/badge/MONAI-00A3A3?style=flat)-->
 
 ## Background
 - **B.Sc. AI Engineering**, Bahçeşehir University, Istanbul
