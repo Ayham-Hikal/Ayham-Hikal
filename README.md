@@ -2,8 +2,8 @@
 AI engineering graduate building perception and robotic systems.
 I'm exploring two fields side by side, **automotive** and **medical** robotics, on my way to an MSc in Robotics in Germany.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayham-hikal-231492262/)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=flat&logo=githubpages&logoColor=white)](https://ayham-hikal.github.io) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayham.m.hikal@gmail.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=flat&logo=githubpages&logoColor=white)](https://ayham-hikal.github.io) -->
  
 ## What I'm working on
 - Robot arm kinematics in PyBullet + ROS2
